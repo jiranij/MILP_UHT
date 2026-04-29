@@ -1,0 +1,8 @@
+## Reproducibility and Execution
+
+This project is implemented using R Markdown (.Rmd). 
+To reproduce the results, please open the `.Rmd` file in RStudio and run the document using the "Knit" function.
+
+Note that the workflow relies on chunk-based execution, and results may differ if code is executed line-by-line in a standard R script.
+
+20260401
